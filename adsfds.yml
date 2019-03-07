@@ -1,4 +1,4 @@
-# Docker image, Azure Container Registry, and Azure Kubernetes Service
+# Docker image, Azure Container asdadRegistry, and Azure Kubernetes Service
 # Build a Docker image, push it to an Azure Container Registry, and deploy it to Azure Kubernetes Service.
 # https://docs.microsoft.com/azure/devops/pipelines/languages/docker
 
